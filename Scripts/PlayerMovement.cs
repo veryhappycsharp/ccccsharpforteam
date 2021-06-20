@@ -79,10 +79,7 @@ namespace BulletHell
        if(other.name=="Bulletr(Clone)"){
            playerlife--;
            }
-           if(other.name=="rival"){
-           playerlife--;
-           playerlife--;
-           }
+          
           
     }
     void SetHealthBar()
